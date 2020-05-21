@@ -1,0 +1,17 @@
+.card {
+  background-color: #c9680e;
+  color: white;
+  border: thin black;
+  border-radius: 115%;
+  min-width: 400px;
+  min-height: 400px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  img {
+    max-width: 250px;
+    max-height: 250px;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 50%;
+  }
+}

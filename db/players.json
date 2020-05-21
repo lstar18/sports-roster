@@ -1,0 +1,79 @@
+{
+  "player1": {
+    "id": "player1",
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.haa2TUXgdrEDeC-dPBM9CgHaE8&pid=Api&P=0&w=226&h=151",
+    "name": "MJ",
+    "position": "Small Forward",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player2": {
+    "id": "player2",
+    "imageUrl": "https://s.yimg.com/fz/api/res/1.2/A0ZPW69Q5EVeSuHPZS.a5Q--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjA7cT04MDt3PTE4Mg--/https://s.yimg.com/zb/imgv1/f0725487-d829-3b85-a711-531c1269f1d3/t_500x300",
+    "name": "Lebron James",
+    "position": "Forward",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player3": {
+    "id": "player3",
+    "imageUrl": "https://media.gettyimages.com/photos/stephen-curry-of-the-golden-state-warriors-drives-to-the-basket-the-picture-id956304028?b=1&k=6&m=956304028&s=594x594&w=0&h=1aJpBQTxwalcKlt-5xggeheTjPXwWb1yjtZnvxA4Y9M=",
+    "name": "Stephen Curry",
+    "position": "Point Guard",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player4": {
+    "id": "player4",
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.SZZR2D2XMQMzuFasniNt0wHaGp&pid=Api&P=0&w=168&h=152",
+    "name": "Bill Russell",
+    "position": "Guard",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player5": {
+    "id": "player5",
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.vZcgJ3KIH-3esOw9BUDJbwHaHa&pid=Api&P=0&w=300&h=300",
+    "name": "Kareem Abdul-Jabbar",
+    "position": "Guard",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player6": {
+    "id": "player6",
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.1jAiXSY9uo1NKYXJO5YzvQHaEK&pid=Api&P=0&w=305&h=172",
+    "name": "Magic Johnson",
+    "position": "Shooting Guard",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player7": {
+    "id": "player7",
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.xdo_vMCJMOKIMtmiESwUaQHaI4&pid=Api&P=0&w=300&h=300",
+    "name": "Wilt Chamberlin",
+    "position": "Center",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player8": {
+    "id": "player8",
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.Utb0L8h1U2UDeAD0tTv1vgHaJN&pid=Api&P=0&w=300&h=300",
+    "name": "Larry Bird",
+    "position": "Small Forward",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player9": {
+    "id": "player9",
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.Rr5G74G2IvWB3RudBMNvSQHaJZ&pid=Api&P=0&w=300&h=300",
+    "name": "Hakeem Olajuwon",
+    "position": "Center",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player10": {
+    "id": "player10",
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.3NMHPJj_WAu6L4EO15udAgHaKH&pid=Api&P=0&w=300&h=300",
+    "name": "Kobe Bryant",
+    "position": "Point Guard",
+    "uid": "XeGngG2RoTaHgZ41AJg9F2c6m3B3"
+  },
+  "player11": {
+    "id": "player11",
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.3sxYfeVJFufWwMJfEWC9UAHaLD&pid=Api&P=0&w=300&h=300",
+    "name": "Shaquille O'Neal",
+    "position": "Center",
+    "uid": "12345"
+  }
+}
